@@ -4,4 +4,4 @@
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The backend requires programs to be run-
-'FloJSAPI' and 'Swift Queue and CHainMirror' from [https://github.com/hima112/SwiftQ-and-ChainMirror]([url](https://github.com/hima112/SwiftQ-and-ChainMirror))
+'FloJSAPI' and 'Swift Queue and CHainMirror' from [https://github.com/hima112/SwiftQ-and-ChainMirror](https://github.com/hima112/SwiftQ-and-ChainMirror)
